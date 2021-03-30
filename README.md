@@ -3,13 +3,15 @@ this is my first repository on github.
 
 ----------------------------------------------------
 ====================================
-hello human,
-I am Fuad, and seeking  a job for beetter future.
-A robot is perfect enough for a job, I khnow that.
+hello again,
+
+Fuad here.
+
+I love programming. I'm interested in Unity projects, android studio projects with Kotlin/Java, and iOS with Swift.
+Learning Data Science and ML also.
+
 best wishes to all of you.
 
-Thanking you,
-Fuad.
-CEO, 
-Road maper's society
+Fuad
+
 
